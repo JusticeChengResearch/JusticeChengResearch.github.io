@@ -5,10 +5,10 @@ navbar_name: "Justice Cheng"
 positions:
 - name: Researcher | HCI · Education · Psychology
 - name: University of Toronto
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  #logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "chengjustice@email.com"
+email: "chengjustice@gmail.com"
 # cv_link: link-to-your-cv-file
 #gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 #github: your_github_id
