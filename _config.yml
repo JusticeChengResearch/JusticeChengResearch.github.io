@@ -25,7 +25,7 @@ plugins:
 # to override the default setting.
 exclude:
     - _news
-    - showcase
+    - _showcase
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -39,4 +39,4 @@ exclude:
 collections:
   - publications
   - news
-  - showcase
+  
