@@ -1,5 +1,5 @@
 ---
-title:          "TWhat Makes It Mine? Exploring Psychological Ownership over Human-AI Co-Creations"
+title:          "Psychological Ownership in HCI: Dimensions and Development of an Instrument"
 date:           2026-01-14 00:01:00 +0800
 selected:       true
 pub:            " Annual meeting of the American Educational Research Association (AERA)"
