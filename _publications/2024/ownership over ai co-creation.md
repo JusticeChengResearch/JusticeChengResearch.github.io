@@ -17,6 +17,5 @@ authors:
   - Anastasia Kuzminykh
 
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  paper: https://dl.acm.org/doi/10.1145/3670947.3670974
 ---
