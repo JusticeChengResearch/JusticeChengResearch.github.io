@@ -10,7 +10,7 @@ pub_date:       "2024"
 semantic_scholar_id: 2322625168  # use this to retrieve citation count
 abstract: >-
   As generative AI (GenAI) rapidly evolves, human-AI collaboration emerges as a prevalent new working style. However, within this collaborative pipeline, multiple stakeholders are involved besides the user and the system itself, raising controversy around ownership over co-creations. In this paper, we explored everyday users’ sense of ownership toward human-AI co-creation, aiming to provide insights for practitioners on future GenAI design to enhance user experience. We identify three primary factors associated with people’s perception of psychological ownership towards human-AI co-creation and systematically analyze individuals’ approaches to assessing these factors. The findings serve to inform strategies for facilitating an appropriate sense of ownership for productive and safe usage of GenAI tools.
-cover:          /assets/images/covers/cover3.jpg
+cover:          assets/images/covers/co-creation cover.png
 authors:
   - Yuxin Xu
   - Mengqiu Cheng
