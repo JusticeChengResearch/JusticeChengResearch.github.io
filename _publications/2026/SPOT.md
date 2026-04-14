@@ -2,7 +2,7 @@
 title:          "Psychological Ownership in HCI: Dimensions and Development of an Instrument"
 date:           2026-01-14 00:01:00 +0800
 selected:       true
-pub:            " Annual meeting of the American Educational Research Association (AERA)"
+pub:            "International Journal of Human–Computer Interaction"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
 abstract: >-
