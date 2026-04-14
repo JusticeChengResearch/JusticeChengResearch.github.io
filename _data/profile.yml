@@ -35,8 +35,16 @@ education:
     Ph.D. Student
   date: Sep. 2026 - present
 
-education:
-# - name: University of Toronto
+- name: University of Toronto
+  logo: assets/images/badges/Utoronto_coa.svg.png
+  position: >- 
+    Applied Psychology and Human Development <br/>
+    Master of Education
+  date: Sep. 2022 - Dec. 2023
+
+
+# experience:
+# - name: Peking University
 #   logo: /assets/images/badges/PKU_red.png
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
