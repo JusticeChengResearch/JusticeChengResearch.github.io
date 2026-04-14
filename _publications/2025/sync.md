@@ -6,7 +6,7 @@ pub:            " Annual meeting of the American Educational Research Associatio
 pub_date:       "2025"
 abstract: >-
   Recent research on cross-reality collaboration highlights the challenges in communication and coordination for learners in VR due to the occlusion of facial expressions and body language. In cross-reality settings, one learner uses a head-mounted display while their partner accesses the environment on a traditional display, hindering joint visual awareness. Building on prior work linking rapport to collaborative learning outcomes, this study examines the relationships between physiological synchrony, perceived experiences, and learning outcomes in cross-reality VR tutoring sessions. Using multimodal data, including physiological measurement, self-report measures, and systematic rating of video sessions, findings indicate that learning outcomes depend on both experiential factors (rapport and presence) and physiological synchrony measures, with different synchrony patterns predicting specific collaboration quality dimensions across the sessions.
-cover: assets\images\covers\sync.png
+cover: assets/images/covers/sync.png
 authors:
 - Michelle Lui
 - Mengqiu Cheng
