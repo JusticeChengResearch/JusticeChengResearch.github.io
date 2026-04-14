@@ -45,9 +45,9 @@ education:
 
 experience:
 - name: University of Toronto
-logo: assets/images/badges/Utoronto_coa.svg.png
-position: Research Assistant
-date: Sep. 2023 - Dec. 2025
+  logo: assets/images/badges/Utoronto_coa.svg.png
+  position: Research Assistant
+  date: Sep. 2023 - Dec. 2025
 
 #awards:
 #- name: Award Name 2
