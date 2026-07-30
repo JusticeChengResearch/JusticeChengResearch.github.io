@@ -21,9 +21,16 @@ linkedin: justice-cheng-712288131
 
 short_bio_text_justify: false
 short_bio: >
-  I'm a researcher in Human-AI interaction in education. I'm also a PhD student at <a href="https://www.feng-ji.org/home" target="_blank">Dr. Feng Ji's Psychometrics and Responsible AI lab</a>. I love studying how we shape the tools we build, and how those tools shape us in return. 
-  At the core of my work is a vision: that AI holds the potential to democratize access to quality education for underserved communities. 
-  To get there, I study the mechanisms underlying human-AI interaction with the goal of informing the design of AI systems.
+I'm a mixed-methods researcher in Human–AI Interaction and a PhD student in <a href="https://www.feng-ji.org/home" target="_blank">Dr. Feng Ji's Psychometrics and Responsible AI Lab</a>. 
+I study the user experience of AI systems, with a focus on AI technologies that support learning. 
+I investigate how people learn with and shape AI through their interactions, and how AI, in turn, influences human learning, cognition, and behavior.
+I also collaborate closely with software developers to translate research into practice by designing and prototyping human-centered AI applications. 
+
+My goal is to bridge empirical research and system design, using insights into human cognition and learning to create AI experiences that are intuitive, effective, and responsible.
+
+  #I'm a mixed methods researcher in Human-AI interaction. I'm also a PhD student at <a href="https://www.feng-ji.org/home" target="_blank">Dr. Feng Ji's Psychometrics and Responsible AI lab</a>. I love studying how we shape the tools we build, and how those tools shape us in return. 
+  #At the core of my work is a vision: that AI holds the potential to democratize access to quality education for underserved communities. 
+  #To get there, I study the mechanisms underlying human-AI interaction with the goal of informing the design of AI systems.
 
 portrait_url: assets/images/photos/square.png
 #portrait_caption: >-
