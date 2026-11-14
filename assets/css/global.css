@@ -42,6 +42,57 @@ h1, h2, h3, h4, h5, h6,
     font-weight: 400;
 }
 
+.bio-lead {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+
+.bio-list {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 1rem;
+}
+
+.bio-list li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 0.6rem;
+    line-height: 1.5;
+}
+
+.bio-list li > i {
+    color: #002a5c;
+    font-size: 1.05rem;
+    margin-top: 0.2rem;
+    margin-right: 0.75rem;
+    flex-shrink: 0;
+}
+
+.bio-goal {
+    border-left: 4px solid #002a5c;
+    background: #f1f5fa;
+    border-radius: 0 0.5rem 0.5rem 0;
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
+    font-style: italic;
+}
+
+.bio-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+}
+
+.bio-tags span {
+    font-size: 0.8rem;
+    padding: 0.2rem 0.7rem;
+    border-radius: 999px;
+    background: #e8eef6;
+    color: #002a5c;
+    white-space: nowrap;
+}
+
 .navbar {
     opacity: 0.95;
 }
