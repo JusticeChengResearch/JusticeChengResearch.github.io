@@ -12,6 +12,4 @@ authors:
 - Mengqiu Cheng
 - Jiaying Yu
 - Martha Mullally
-links:
-  Paper: https://convention2.allacademic.com/one/aera/aera26/index.php?program_focus=view_paper&selected_paper_id=2281373&cmd=online_program_direct_link&sub_action=online_program
 ---
